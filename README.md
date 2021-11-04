@@ -1,16 +1,25 @@
-### Hi there 👋
+<h3 align="center">Hi, my name is Kim Hyeong jun.😄</h3>
+<p align="center">
+I just started learning coding on a multi-campus course.<br>
+I am sure I will be able to finish this course well.👊<br>
+Definitely, I will be a FE developer.🎯
+</p>
 
-<!--
-**hjun0917/hjun0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Loading-black"/>&nbsp
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🌐 Others 🌐</h3>
+<p align="center">
+  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjun0917&layout=compact&theme=default&langs_count=10)
+
+<br>
+
+![hjun0917's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun0917&theme=default_icons=true)
