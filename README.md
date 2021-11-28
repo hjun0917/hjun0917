@@ -7,6 +7,8 @@ Definitely, I will be a FE developer.🎯
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/-HTML-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Loading-black"/>&nbsp
 </p>
 
