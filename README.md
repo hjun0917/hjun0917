@@ -9,6 +9,7 @@ Definitely, I will be a FE developer.🎯
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-green"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-Loading-black"/>&nbsp
 </p>
 
