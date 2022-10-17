@@ -2,7 +2,7 @@
 <p align="center">
 I just started learning coding on a multi-campus course.<br>
 I am sure I will be able to finish this course well.👊<br>
-Definitely, I will be a FE developer.🎯
+Definitely, I will be a developer.🎯
 </p>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
