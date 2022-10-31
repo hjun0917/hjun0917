@@ -15,7 +15,7 @@ Definitely, I will be a developer.🎯
 
 <h3 align="center">🌐 Others 🌐</h3>
 <p align="center">
-  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp<span>: ~22.10.31</span>
 </p>
 
 
