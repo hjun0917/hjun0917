@@ -15,8 +15,8 @@ Definitely, I will be a developer.🎯
 
 <h3 align="center">🌐 Others 🌐</h3>
 <p align="center">
-  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp<span>: ~22.10.31</span><br>
-  <a href="https://junistory.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp<span>: 22.11.01~</span>
+  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp<br>
+  <a href="https://junistory.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
 </p>
 
 
