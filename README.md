@@ -1,9 +1,4 @@
 <h3 align="center">Hi, my name is Kim Hyeong jun.😄</h3>
-<p align="center">
-I just started learning coding on a multi-campus course.<br>
-I am sure I will be able to finish this course well.👊<br>
-Definitely, I will be a developer.🎯
-</p>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
@@ -17,14 +12,14 @@ Definitely, I will be a developer.🎯
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Loading-black"/>&nbsp
+  <img src="https://img.shields.io/badge/Loading-black?style=for-the-badge&logoColor=white">&nbsp
   
 </p>
 
-<h3 align="center">🌐 Others 🌐</h3>
+<h3 align="center">🌐 Blog 🌐</h3>
 <p align="center">
-  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp<br>
-  <a href="https://junistory.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="https://velog.io/@hjun0917"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="https://junistory.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
 </p>
 
 
