@@ -1,4 +1,6 @@
-<h3 align="center">Hi, my name is Kim Hyeong jun.😄</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Kim%20Hyeong%20jun.😄&fontSize=90" />
+</p>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
@@ -9,11 +11,10 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp
+  <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Loading-black?style=for-the-badge&logoColor=white">&nbsp
-  
+  <img src="https://img.shields.io/badge/Loading-black?style=for-the-badge&logoColor=white">&nbsp  
 </p>
 
 <h3 align="center">🌐 Blog 🌐</h3>
@@ -22,11 +23,8 @@
   <a href="https://junistory.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
 </p>
 
-
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjun0917&layout=compact&theme=default&langs_count=10)
-
-<br>
-
-![hjun0917's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun0917&theme=default_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjun0917&layout=compact&theme=default&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hjun0917&theme=default_icons=true" />
+</p>
