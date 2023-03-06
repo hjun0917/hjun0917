@@ -23,6 +23,46 @@
   <a href="https://junistory.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
 </p>
 
+<h3 align="center">📖 Study 📖</h3>  
+
+<table align="center">
+  <tr>
+    <th>
+    </th>
+    <th align="center">
+      <a href="https://github.com/Step-By-Step-Study-Group/Tech-Interview-Study">Interview</a>
+    </th>
+    <th align="center">
+      <a href="https://github.com/seunGit/Algorithm-Study">Algorithm</a>
+    </th>
+  </tr>
+  <tr align="center">
+    <td>
+      START
+    </td>
+    <td>
+      2023.03.06 ~
+    </td>
+    <td>
+      2023.03.08 ~
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      WHEN
+    </td>
+    <td>
+      월, 수, 금<br>
+      9AM
+    </td>
+    <td>
+      월 ~ 금<br>
+      1문제
+    </td>
+  </tr>
+</table>
+
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjun0917&layout=compact&theme=default&langs_count=10" />
