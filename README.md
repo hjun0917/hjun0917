@@ -35,6 +35,9 @@
     <th align="center">
       <a href="https://github.com/seunGit/Algorithm-Study">Algorithm</a>
     </th>
+    <th>
+      <a href="https://github.com/hjun0917/TIL">T.I.L</a>
+    </th>
   </tr>
   <tr align="center">
     <td>
@@ -46,17 +49,25 @@
     <td>
       2023.03.20 ~
     </td>
+    <td>
+      -
+    </td>
   </tr>
   <tr align="center">
     <td>
-      WHEN
+      WHEN / HOW
     </td>
     <td>
-      월, 수, 금<br>
-      9AM
+      인턴 활동 병행으로</br>
+      주 1회 참여
     </td>
     <td>
-      한 주에 3문제
+      매주</br>
+      3문제
+    </td>
+    <td>
+      매주</br>
+      게시글 5개 포스팅
     </td>
   </tr>
 </table>
