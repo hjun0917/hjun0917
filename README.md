@@ -4,9 +4,25 @@
 
 
 <h3 align="center">🎖 Experience 🎖</h3>
-<p align="center">2022.11 ~ 2023.02 : 항해99 부트캠프</p>
-<p align="center">2023.03 ~ : 팀 스파르타 교육 PM 인턴십</p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      2022.11 ~ 2023.02
+    </td>
+    <th>
+      항해99 부트캠프
+    </th>
+  </tr>
+  <tr align="center">
+    <td>
+      2023.03 ~ 
+    </td>
+    <th>
+      팀 스파르타 교육 PM 인턴십
+    </t>
+  </tr>
+</table>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
