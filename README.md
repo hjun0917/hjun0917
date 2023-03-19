@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Kim%20Hyeong%20jun.😄&fontSize=90" />
 </p>
 
+
+<h3 align="center">🎖 Experience 🎖</h3>
+<p align="center">2022.11 ~ 2023.02 : 항해99 부트캠프</p>
+<p align="center">2023.03 ~ : 팀 스파르타 교육 PM 인턴십</p>
+
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
