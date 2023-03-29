@@ -63,7 +63,7 @@
   </tr>
   <tr align="center">
     <td>
-      START
+      START/END
     </td>
     <td>
       2023.03.06 ~ 2023.03.20
