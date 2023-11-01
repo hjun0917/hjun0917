@@ -20,7 +20,15 @@
     </td>
     <th>
       팀 스파르타 교육 PM 인턴십
-    </t>
+    </th>
+  </tr>
+  <tr align="center">
+    <td>
+      2023.11 ~ 
+    </td>
+    <th>
+      한경 ITS
+    </th>
   </tr>
 </table>
 
