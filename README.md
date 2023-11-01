@@ -56,47 +56,7 @@
 <h3 align="center">📖 Study 📖</h3>  
 
 <table align="center">
-  <tr>
-    <th>
-    </th>
-    <th align="center">
-      <a href="https://github.com/Step-By-Step-Study-Group/Tech-Interview-Study">Interview</a>
-    </th>
-    <th align="center">
-      <a href="https://github.com/seunGit/Algorithm-Study">Algorithm</a>
-    </th>
-    <th>
-      <a href="https://github.com/hjun0917/TIL">T.I.L</a>
-    </th>
-  </tr>
-  <tr align="center">
-    <td>
-      START/END
-    </td>
-    <td>
-      2023.03.06 ~ 2023.03.20
-    </td>
-    <td>
-      2023.03.20 ~
-    </td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      WHEN / HOW
-    </td>
-    <td>
-      인턴 활동으로 중단
-    </td>
-    <td>
-      매주 1문제
-    </td>
-    <td>
-      매주 게시글 5개 포스팅
-    </td>
-  </tr>
+
 </table>
 
 
